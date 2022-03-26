@@ -128,7 +128,7 @@ for l in locationList:
 
 
 # My personal API Key 
-API_Key = "AIzaSyA4A0sVHkCcRdqvXFdQdcBDSnS93fpDOes"
+API_Key = ""
 url = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial"
 
 # Go through every health facility and print time from one to another on terminal and on file
