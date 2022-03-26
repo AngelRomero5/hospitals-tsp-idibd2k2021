@@ -1,0 +1,145 @@
+
+ Total travel distance : 979.6 miles
+ The best path to take : 
+
+	> Aguada Medical -> 
+	> Hospital San Carlos Borromeo Moca -> 
+	> Hospital Buen Samaritano Aguadilla -> 
+	> Hospital Cima Isabela -> 
+	> Policlinica de emergencia Shalom Quebradillas -> 
+	> Hospital de Quebradillas  -> 
+	> Camuy Health Services -> 
+	> Hospital La Torre Corporación de Servicios Médicos IPA-19 Hatillo -> 
+	> Hospital Pavia (Dr. Cayetano Coll y Toste) Arecibo -> 
+	> Hospital Metro Pavia Dr. Susoni Arecibo -> 
+	> Atlantic Medical Center Barceloneta -> 
+	> Medical Center Dr. Otero Lopez Manatí -> 
+	> Doctor's Hospital Center Manatí -> 
+	> Health South Rehabilitation Hospital Manatí -> 
+	> Prymed Medical Center Vega Baja -> 
+	> Wilma N Vazquez Hospital Vega Baja -> 
+	> Vega Baja Medical CDT -> 
+	> Centro de medicina primaria Vega Alta -> 
+	> SIM Toa Alta -> 
+	> Hospital CDT Dorado -> 
+	> Metro Pavia Toa Baja -> 
+	> Doctors' Center Hospital Matilde Brennes Bayamón -> 
+	> Hospital Hermanos Meléndez Bayamón -> 
+	> Hima San Pablo Bayamon -> 
+	> PR Childrens Hospital Bayamón -> 
+	> Centro Medico Correccional Bayamón -> 
+	> CDT Cataño -> 
+	> Hospital Univ. Dr. Ramon Ruiz Bayamón -> 
+	> Hospital Municipal Guaynabo -> 
+	> Professional Hospital Pavia Guaynabo -> 
+	> Hospital Metro Pavia Cupey San Juan -> 
+	> Hima San Pablo Cupey San Juan -> 
+	> Sistema San Juan Capestrano San Juan -> 
+	> Hospital Pavia San Francisco San Juan -> 
+	> Auxilio Mutuo San Juan -> 
+	> Pavia Hato Rey San Juan -> 
+	> Hospital del Maestro San Juan -> 
+	> Centro Cardiovascular de PR San Juan -> 
+	> Hospital Municipal Dr. Rafael Lopez Nussa San Juan -> 
+	> Admin. de Servicios Medicos de PR San Juan -> 
+	> Hospital Industrial C.F.S.E. San Juan -> 
+	> Oncológico Dr. Isaac González Martínez San Juan -> 
+	> Pediátrico Univ. Dr. Antonio Ortíz San Juan -> 
+	> Centro comprensivo de cancer UPR San Juan -> 
+	> Universitario de Adultos San Juan -> 
+	> Hospital de Psiquiatría Dr. Ramón Fernández San Juan -> 
+	> SJ Veterans Admin Medical Center  -> 
+	> Hospital Psiquiatría Forense de Río Piedra ASSMCA San Juan -> 
+	> Health South Rehabilitation Hospital San Juan -> 
+	> Doctor's Center Hospital San Juan -> 
+	> Pavia Santurce San Juan -> 
+	> San Jorge Children's Hospital San Juan -> 
+	> Ashford Presbyterian Community Hospital San Juan -> 
+	> Hospital UPR Carolina Federico Trilla -> 
+	> Doctors' Center Hospital San Fernando Carolina -> 
+	> Metro Pavia Clinic Carolina -> 
+	> CDT Canovanas -> 
+	> Integral Health Council Hospital Loiza -> 
+	> Sala de Emergencias de Barrazas Carolina -> 
+	> Hospital Municipal Dr. César A. Collazo Juncos -> 
+	> Neomed Center Gurabo -> 
+	> Hima San Pablo Cáguas -> 
+	> Hospital Menonita Cáguas -> 
+	> Hospital Menonita Aguas Buenas -> 
+	> First Hospital Panamericano Cidra -> 
+	> Hospital Menonita Centro Médico Cayey -> 
+	> Health Care Ambulatory Services Cayey -> 
+	> CDT Cayey -> 
+	> Hospital Menonita Comerío -> 
+	> Hospital SIM Naranjito -> 
+	> Hospital Plaza del Carmen Corozal -> 
+	> SIM Corozal -> 
+	> Centro de Salud Corozal -> 
+	> Morovis Comunity Health Center -> 
+	> Prymed Hospital Ciales -> 
+	> Florida Medical Plaza -> 
+	> CDT Mario Canales Jayuya -> 
+	> Municipal Santos Defendini Adjuntas -> 
+	> Hospital Castañer Lares -> 
+	> CDT Lares -> 
+	> Lares Medical Center -> 
+	> Hospital La Policlínica San Sebastián -> 
+	> Pepino Health Group San Sebastián -> 
+	> Serv Med Las Marias -> 
+	> Profesional Medical Center Las Marías -> 
+	> CDT Maricao -> 
+	> Migrants Health Center Maricao -> 
+	> La Concepción San Germán -> 
+	> Metropolitano San Germán -> 
+	> CDT Lajas -> 
+	> Metro Pavia Clinic Sabana Grande -> 
+	> CDT Hormigueros -> 
+	> Medical Center Mayagüez -> 
+	> Hospital Dr. Perea Pavia Mayagüez -> 
+	> Hospital San Antonio Mayagüez -> 
+	> Hospital Bella Vista Mayagüez -> 
+	> Pavia Health Clinic Añasco -> 
+	> Costa Salud Rincón -> 
+	> Hospital Metro Psiquiatrico Pavia Cabo Rojo -> 
+	> CDT Guánica -> 
+	> Hospital Pavia Yauco -> 
+	> CDT Guayanilla -> 
+	> Med Centro Peñuelas -> 
+	> Hospital Damas Ponce -> 
+	> Hospital Metro Pavia Dr. Manuel de la Pila Iglesias en Ponce -> 
+	> Episcopal San Lucas II Ponce -> 
+	> Psiquiatria Forense de Ponce -> 
+	> San Cristobal de Ponce -> 
+	> CDT Centro San Cristobal Juana Díaz -> 
+	> MedCentro Villalba -> 
+	> Hospital Menonita Coamo -> 
+	> CDT Santa Isabel -> 
+	> SurMed Salinas -> 
+	> Veterans Hospital (VA Clinic) Guayama -> 
+	> Menonita San Lucas de Guayama -> 
+	> Southern Medical Plaza Guayama -> 
+	> Metro Pavia Clinic Guayama -> 
+	> CDT Arroyo Dr. Julio Palmeri -> 
+	> CDT Patillas -> 
+	> CDT Centro de Salud Maunabo -> 
+	> CDT Yabucoa -> 
+	> COSSMA Yabucoa -> 
+	> Centro de Acceso y tratamiento Panamericano Humacao -> 
+	> Hima Humacao -> 
+	> Hospital Oriente Inc. Dr. Dominguez Menonita Humacao -> 
+	> Hospital Ryder Memorial Humacao -> 
+	> CDT Las Piedras -> 
+	> CDT Peña Pobre Naguabo -> 
+	> CDT Naguabo -> 
+	> Hospital de Veteranos Ceiba -> 
+	> CDT Ceiba -> 
+	> Caribbean Medical Center Fajardo -> 
+	> Hima San Pablo Fajardo -> 
+	> CDT Luquillo -> 
+	> NeoMed Center Trujillo Alto -> 
+	> NeoMed Center San Lorenzo -> 
+	> Hospital Menonita Aibonito -> 
+	> SIM Barranquitas -> 
+	> Hospital SIM Orocovis -> 
+	> Hospital Metro de la Montaña Utuado -> 
+	> Healthpro Med Culebra -> 

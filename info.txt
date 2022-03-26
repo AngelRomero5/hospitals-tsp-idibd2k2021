@@ -1,0 +1,9 @@
+https://mlrose.readthedocs.io/en/stable/source/tutorial1.html
+
+https://stackoverflow.com/questions/60918265/mlrose-tspopt-genetic-algorithm-own-cost-function
+
+https://towardsdatascience.com/solving-travelling-salesperson-problems-with-python-5de7e883d847
+
+https://developers.google.com/optimization/routing/tsp#python
+
+https://developers.google.com/optimization/routing/vrp#distance_matrix_api
